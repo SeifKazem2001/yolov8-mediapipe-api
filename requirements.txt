@@ -1,0 +1,9 @@
+python-multipart
+fastapi
+uvicorn
+numpy
+opencv-python
+ultralytics
+mediapipe
+
+
